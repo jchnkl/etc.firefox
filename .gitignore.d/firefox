@@ -1,9 +1,3 @@
 *
 !/.gitignore.d
 !/.gitignore.d/firefox
-!/.mozilla
-!/.mozilla/firefox
-!/.mozilla/firefox/default
-!/.mozilla/firefox/default/user.js
-!/.mozilla/firefox/profiles.ini
-!/.mozilla/firefox/user.js
